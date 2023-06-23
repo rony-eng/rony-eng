@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Rony, iniciante na área da tecnologia, cursando Engenharia de Software
-- 👀 Tenho interesse em ser desenvolvedor full stack 
+- 👀 Tenho interesse em ser Engenheiro de Software
 - 🌱 Atualmente estou estudando Python ...
 - 📌 Procurando uma oportunidade de trabalhar no mercado da tecnologia
 
