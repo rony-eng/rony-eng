@@ -1,6 +1,6 @@
 - 👋 Olá, me chamo Rony, iniciante na área da tecnologia, cursando Engenharia de Software
 - 👀 Tenho interesse em ser Engenheiro de Software
-- 🌱 Atualmente estou estudando Python ...
+- 🌱 Atualmente no 6 semestre ...
 - 📌 Procurando uma oportunidade de trabalhar no mercado da tecnologia
 
 <!---
